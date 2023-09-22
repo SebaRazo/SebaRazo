@@ -18,6 +18,7 @@ Throughout my academic career, I have acquired knowledge in the following areas:
 - CSS
 - JavaScript
 - Java
+- React
 
 ## <span style="color: #3e82fc;">How to Reach Me</span>
 If you want to discuss projects, share resources, or just chat about programming, feel free to get in touch with me!
